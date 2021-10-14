@@ -1,7 +1,7 @@
 
 # Notes Application
 
-Build a Notes Application using Node.js.
+Build a Notes Application using Node.js. This app is based on command line arguments.
 
 
 
